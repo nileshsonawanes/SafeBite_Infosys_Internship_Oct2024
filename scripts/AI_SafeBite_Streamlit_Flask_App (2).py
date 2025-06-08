@@ -160,7 +160,7 @@ st.markdown("""
 <p style="text-align:center;">
     Built with ❤️ using Streamlit. <br>
     SafeBite® - Protecting you from hidden allergens! <br>
-    Made by: <b>Sandeepkumar Yadav</b> <br>
+    Made by: <b>Nilesh Sonawane</b> <br>
     &copy;2024. All rights reserved.
 </p>
 """, unsafe_allow_html=True)
